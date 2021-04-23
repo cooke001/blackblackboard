@@ -11,6 +11,10 @@
     color: white !important;
 }
 
+.appTabs td.active {
+    border-bottom: 3px solid var(--accent-color) !important;
+}
+
 body {
     border-color: var(--border-color) !important;
 }
