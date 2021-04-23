@@ -50,3 +50,75 @@ div[id*="stepcontent"] {
 .column-3 {
     display: none;
 }
+
+
+.field{
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent1  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent2  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent3  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent4  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent5  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent6  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent7  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent8  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent9  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent10  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent11  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent12  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent13  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent14  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent15  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent16  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent17  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent18  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent19  {
+    background-color: var(--main-bg-color) !important;
+}
+#stepcontent20  {
+    background-color: var(--main-bg-color) !important;
+}
+.submitStepBottom{
+    background-color: var(--main-bg-color) !important;
+} 
+.submitStepFixed{
+    background-color: var(--main-bg-color) !important;
+}
+
