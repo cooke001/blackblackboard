@@ -21,7 +21,7 @@ span {
     color: var(--accent-color) !important
 }
 .contentBox * {
-    background-color: var(--main-bg-color) !important;
+    background-color: transparent !important;
     border-color: var(--border-color) !important;
     color: white !important
 }
