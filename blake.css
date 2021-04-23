@@ -2,13 +2,17 @@
 :root {
     --main-bg-color : #212121;
     --border-color: #424242;
-    --accent-color : #F57C00;
-    --active-button-color: #E65100;
+    --accent-color : #1b806d;
+    --active-button-color: #1b806d;
     --inactive-button-color: #9E9E9E;
 }
 * {
     background-color: var(--main-bg-color) !important;
     color: white !important;
+}
+
+.appTabs td.active {
+    border-bottom: 3px solid var(--accent-color) !important;
 }
 
 body {
